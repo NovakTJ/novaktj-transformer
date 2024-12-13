@@ -8,3 +8,7 @@ I implemented:
 3. Training code
 
 I also made unit tests and a toy task to quickly test model variations. 
+
+The dataset is currently too small - I did not augment the data - and the training is over in about a minute on a Colab free GPU. After training, the model usually converges on predicting a space every time.
+
+I'll come back to this project!
